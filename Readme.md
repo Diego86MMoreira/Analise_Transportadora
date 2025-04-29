@@ -8,6 +8,13 @@ Você pode visualizar o publicado no Power BI Service pelo link abaixo:
 🔗 [Acessar o relatório no Power BI](https://app.powerbi.com/view?r=eyJrIjoiZTllNzlmYjctODllNi00MThhLWJkOTAtNjliY2RjZThjZWVlIiwidCI6IjkzMTY2NTUxLTZlOTgtNDRlNC1iYzQ5LTczMjBiNTEzNWYzMSJ9)
 
 
+📊 Visualização do Projeto:
+
+Você pode visualizar o publicado no Power BI Service pelo link abaixo:
+
+🔗 [Acessar o relatório no Power BI](https://app.powerbi.com/view?r=eyJrIjoiZTllNzlmYjctODllNi00MThhLWJkOTAtNjliY2RjZThjZWVlIiwidCI6IjkzMTY2NTUxLTZlOTgtNDRlNC1iYzQ5LTczMjBiNTEzNWYzMSJ9)
+
+
 
 ## Introdução
 Este projeto apresenta uma análise de desempenho logístico utilizando dados fictícios de entregas realizadas por 
@@ -144,7 +151,7 @@ Para análises temporais.
 
 ##  Diagrama Lógico (Modelo Estrela)
 
-![Diagrama de Entidade-Relacionamento](./imagem/diagrama_er.png)
+![Diagrama de Entidade-Relacionamento](./Imagem/diagrama.png)
 
 ---
 
