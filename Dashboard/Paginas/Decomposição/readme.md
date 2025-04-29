@@ -8,11 +8,8 @@ proporcionando uma visão clara de como cada fator contribui para a eficiência 
 A decomposição dos dados ajuda a identificar áreas de melhoria e otimizar os processos operacionais, 
 visando garantir a maximização da performance das transportadoras e a redução de entregas fora do prazo.
 
-<<<<<<< HEAD
-![Visualização Página Decomposição](Imagem/decomposição.png)
-=======
-![Visualização Página Decomposição](Imagem/pag3.png)
->>>>>>> e412f69 (Atualizando imagens e Readme de cada pagina)
+![Visualização Página Decomposição](./Imagem/pag3.png)
+
 
 # 📐 Medidas DAX – Página Decomposição
 ---
