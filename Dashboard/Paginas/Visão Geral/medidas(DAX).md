@@ -6,6 +6,10 @@ Através de KPIs estratégicos, consigo avaliar a eficiência logística de form
 por ano e comparando com o desempenho do período anterior. Essa visão é fundamental para embasar decisões rápidas e orientar 
 a tomada de ações corretivas ou preventivas em relação à operação de entregas.
 
+
+![Visualização Página Decomposição](./Imagem/visao.png)
+
+
 # 📐 Medidas DAX – Página Visão Geral
 ---
 
