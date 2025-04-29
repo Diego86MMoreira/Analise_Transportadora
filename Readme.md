@@ -137,7 +137,7 @@ Para análises temporais.
 
 ##  Diagrama Lógico (Modelo Estrela)
 
-![Diagrama de Entidade-Relacionamento](/.imagem/diagrama.png)
+![Diagrama de Entidade-Relacionamento](./imagem/diagrama.png)
 
 ---
 
