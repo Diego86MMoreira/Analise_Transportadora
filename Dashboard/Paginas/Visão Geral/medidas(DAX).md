@@ -7,7 +7,7 @@ por ano e comparando com o desempenho do período anterior. Essa visão é funda
 a tomada de ações corretivas ou preventivas em relação à operação de entregas.
 
 
-![Visualização Página Decomposição](./Imagem/visao.png)
+![Visualização Página Decomposição](Imagem/pag1.png)
 
 
 # 📐 Medidas DAX – Página Visão Geral

@@ -6,7 +6,7 @@ Ela contém cartões indicadores de desempenho, métricas de entregas no prazo, 
 comparativo com o ano anterior. Além disso, inclui uma matriz para comparar ano, faturamento, frete e margem de lucro. 
 Por fim, dois gráficos de barras apresentam o desempenho das cidades em termos de entregas no prazo e fora do prazo.
 
-![Visualização Página - Painel de entregas](Imagem/entregas.png)
+![Visualização Página - Painel de entregas](Imagem/pag2.png)
 
 # 📐 Medidas DAX – Página Painel de Entregas.
 ---
